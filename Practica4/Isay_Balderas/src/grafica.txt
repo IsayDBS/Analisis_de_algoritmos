@@ -1,0 +1,8 @@
+pero,a,b,d,e,f
+pero,a,1
+pero,b,7
+pero,d,2
+a,b,3
+b,d,5
+b,e,1
+d,e,7
